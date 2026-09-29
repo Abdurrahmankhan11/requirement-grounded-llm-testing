@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository or the accompanying protocol, please cite the associated research work."
+title: "Requirement-Grounded LLM Agents for Functional Testing of React Applications: A Controlled Study Protocol, Benchmark Specification, and Artifact Audit"
+type: article
+authors:
+  - family-names: Khan
+    given-names: Abdurrahman
+    affiliation: "Barkatullah University Institute of Technology, Bhopal, India"
+date-released: 2026-09-29
+keywords:
+  - Large Language Models
+  - LLM Agents
+  - Functional Testing
+  - React Applications
+  - Software Testing
+  - Requirements Engineering
+  - Automated Test Generation
+  - Playwright
+  - Mutation Testing
+  - Test Oracles
+  - Requirement Traceability
